@@ -1,21 +1,18 @@
-### About Me
+### Hi, I'm AbdAl-Rhman Howari 👋
 
-Hey, I'm **Abod** 👋 — a first-year **Business Information Technology (BIT)** student at **Al al-Bayt University (AABU)**, based in Amman, Jordan.
+I'm a **Business Information Technology (BIT)** student at **Al al-Bayt University (AABU)** in Amman, Jordan, focused on the intersection of enterprise business operations, structured data, and software systems.
 
-I'm interested in the intersection of business operations and technology—figuring out how software, systems, and structured data actually solve real-world problems. When learning new tools, I focus on understanding the core logic and architecture behind how things work rather than just memorizing syntax.
+When picking up new technologies, I focus on understanding the core logic and system architecture behind how things work rather than just memorizing syntax.
 
-I'm using this GitHub to document my progress from day one, experiment with code, and build practical projects from scratch as I expand my technical stack.
+#### 💻 Current Foundation
+* **Programming & Core Logic:** C++, Python (in progress)
+* **Data & Business Tools:** Microsoft Excel, Information Systems Fundamentals
+* **Workflow & Environment:** Git, GitHub, VS Code, Windows & Linux
 
----
+#### 🎯 Focus & Direction
+* Building clean, well-documented programming and data analysis projects
+* Developing practical database skills with **SQL** and business intelligence reporting with **Power BI**
+* Exploring enterprise cloud architecture (**AWS** & **Azure**) as my coursework progresses
 
-### Currently
-- Studying programming fundamentals and information systems.
-- Building my first portfolio projects (pinned below as they go live).
-
----
-
-### Goals & Roadmap
-Technologies and tools I'm actively working toward learning and building with:
-- **Programming & Data:** Python, SQL, and Data Analysis
-- **Analytics & Reporting:** Power BI and Advanced Excel
-- **Cloud Platforms:** AWS and Microsoft Azure
+#### 📫 Connect
+* **LinkedIn:** [linkedin.com/in/abdal-rhman-howari](https://www.linkedin.com/in/abdal-rhman-howari)
